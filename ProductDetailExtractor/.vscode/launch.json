@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Launch ProductDetailExtractor",
+        "request": "launch",
+        "mainClass": "ProductDetailExtractor",
+        "vmArgs": "-classpath lib/json-20230227.jar;bin",
+        "cwd": "${workspaceFolder}"
+      }
+    ]
+  }
+  
